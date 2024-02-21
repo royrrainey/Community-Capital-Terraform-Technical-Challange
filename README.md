@@ -61,4 +61,10 @@ explanations.
 your design decisions.
 
 ## Solution
-This project relies on components found in a private repository in a seperate account [Private Repo Account Link](https://github.com/geekincorp-devops). If you need access to this repository, please send a email request to info@geekinc.co for access 
+This project relies on components found in a private repository in a seperate account
+
+Account: Geekincorp-Devops [ACCOUNT LINK](https://github.com/geekincorp-devops)
+
+Private Repository: tech-challange-community-capital [REPOSITORY LINK](https://github.com/geekincorp-devops/tech-challange-community-capital)
+
+If you need access to this repository, please send a email request to info@geekinc.co for access 
